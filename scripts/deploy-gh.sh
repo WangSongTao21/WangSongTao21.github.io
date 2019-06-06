@@ -23,7 +23,7 @@ git add -A
 git commit -m 'update'
 
 # 如果发布到 https://<USERNAME>.github.io
-# git push -f git@github.com:<USERNAME>/<USERNAME>.github.io.git master
+git push -f git@github.com:WangSongTao21/WangSongTao21.github.io.git master
 
 # 如果发布到 https://<USERNAME>.github.io/<REPO>
 #git push -f git@git.coding.net:aqazzz/Finen.git master
